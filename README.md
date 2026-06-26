@@ -473,6 +473,8 @@ Medical-Centre-Management-DB/
 ├── 📄 smartcare_db.sql          # Complete schema + seed data + sample queries
 │
 └── 📄 README.md                 # This file
+│
+└── 📄 LICENSE                   # LICENSE 
 ```
 
 ---
