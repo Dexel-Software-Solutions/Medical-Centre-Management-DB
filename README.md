@@ -33,6 +33,8 @@
 - [Setup & Installation](#-setup--installation)
 - [Project Structure](#-project-structure)
 - [Tech Stack](#-tech-stack)
+- [Assignment Context](#-assignment-context)
+- [Developer](#-developer)
 
 ---
 
@@ -502,10 +504,82 @@ Medical-Centre-Management-DB/
 
 ---
 
+## 👨‍💻 Developer
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f4c75,100:00b4d8&height=3&section=header" width="100%"/>
+
+<br/>
+
+<img src="https://github.com/Dexel-Software-Solutions.png" width="110" style="border-radius:50%; border: 3px solid #00b4d8;"/>
+
+### **Demiyan Dissanayake**
+#### Founder & Lead Engineer — Dexel Software Solutions
+
+<p>
+  <a href="https://github.com/Dexel-Software-Solutions">
+    <img src="https://img.shields.io/badge/GitHub-Dexel--Software--Solutions-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:dexelsoftwaresolutions@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dexelsoftwaresolutions@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+<p>
+  <a href="https://wa.me/+94729504289">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B94%20729%20504%20289-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://share.google/sD7T5HaZHK314SOyR">
+    <img src="https://img.shields.io/badge/Website-Dexel%20Software-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/demiyan.dissanayake">
+    <img src="https://img.shields.io/badge/LinkedIn-demiyan.dissanayake-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+> *"Secure • Scalable • Intelligent Software Engineering"*
+>
+> Based in **Dankotuwa, Sri Lanka** 🇱🇰 — building enterprise-grade software solutions worldwide.
+
+<br/>
+
+| 🏆 Achievement | 🏆 Achievement | 🏆 Achievement |
+|:---:|:---:|:---:|
+| ⚡ YOLO | 🦈 Pull Shark | 🎯 Quickdraw |
+
+<br/>
+
+### 🔭 About Dexel Software Solutions
+
+**Dexel Software Solutions** is a professional software engineering company delivering secure, scalable, and high-performance digital solutions for businesses worldwide — following industry-standard engineering practices, security-first development, and clean, maintainable architectures.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Enterprise%20Software-Custom%20Systems-0f4c75?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cyber%20Security-Offensive%20%26%20Defensive-FF4444?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Automation-Intelligent%20Systems-9B59B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web%20%26%20Mobile-Full--Stack-00b4d8?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://github.com/Dexel-Software-Solutions">
+  <img src="https://img.shields.io/badge/⭐%20Explore%20More%20Projects-Dexel%20Software%20Solutions-1b6ca8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f4c75,100:00b4d8&height=3&section=header" width="100%"/>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1b6ca8,100:0f4c75&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>Built with precision for the SmartCare Medical Centre database assignment</sub>
+<sub>Designed & developed by <a href="https://github.com/Dexel-Software-Solutions"><b>Demiyan Dissanayake</b></a> · Dexel Software Solutions · Sri Lanka 🇱🇰</sub>
 
 </div>
